@@ -1,0 +1,7 @@
+C:\Users\MINEDUCYT\OneDrive\Escritorio\programacion1-2024\NotaFinal\NotaFinal\bin\Debug\NotaFinal.exe.config
+C:\Users\MINEDUCYT\OneDrive\Escritorio\programacion1-2024\NotaFinal\NotaFinal\bin\Debug\NotaFinal.exe
+C:\Users\MINEDUCYT\OneDrive\Escritorio\programacion1-2024\NotaFinal\NotaFinal\bin\Debug\NotaFinal.pdb
+C:\Users\MINEDUCYT\OneDrive\Escritorio\programacion1-2024\NotaFinal\NotaFinal\obj\Debug\NotaFinal.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\OneDrive\Escritorio\programacion1-2024\NotaFinal\NotaFinal\obj\Debug\NotaFinal.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\OneDrive\Escritorio\programacion1-2024\NotaFinal\NotaFinal\obj\Debug\NotaFinal.exe
+C:\Users\MINEDUCYT\OneDrive\Escritorio\programacion1-2024\NotaFinal\NotaFinal\obj\Debug\NotaFinal.pdb
