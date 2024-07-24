@@ -1,0 +1,7 @@
+D:\Users\Estudiante\Desktop\Aprogra1-2024-semi\clase2\bin\Debug\clase2.exe.config
+D:\Users\Estudiante\Desktop\Aprogra1-2024-semi\clase2\bin\Debug\clase2.exe
+D:\Users\Estudiante\Desktop\Aprogra1-2024-semi\clase2\bin\Debug\clase2.pdb
+D:\Users\Estudiante\Desktop\Aprogra1-2024-semi\clase2\obj\Debug\clase2.csproj.AssemblyReference.cache
+D:\Users\Estudiante\Desktop\Aprogra1-2024-semi\clase2\obj\Debug\clase2.csproj.CoreCompileInputs.cache
+D:\Users\Estudiante\Desktop\Aprogra1-2024-semi\clase2\obj\Debug\clase2.exe
+D:\Users\Estudiante\Desktop\Aprogra1-2024-semi\clase2\obj\Debug\clase2.pdb
