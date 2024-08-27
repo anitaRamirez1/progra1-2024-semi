@@ -1,0 +1,2 @@
+C:\Users\MINEDUCYT\OneDrive\Escritorio\progra1-semi-2024\prioridad de los operadores aritmeticos\prioridad de los operadores aritmeticos\obj\Debug\prioridad de los operadores aritmeticos.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\OneDrive\Escritorio\progra1-semi-2024\prioridad de los operadores aritmeticos\prioridad de los operadores aritmeticos\obj\Debug\prioridad de los operadores aritmeticos.csproj.CoreCompileInputs.cache
