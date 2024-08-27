@@ -10,25 +10,31 @@ namespace prioridad_de_los_operadores_aritmeticos
     {
         static void Main(string[] args)
         {
+            int[] serie = new int[] { 5, 4, 6, 8, 9 }; //32
+            int suma = 0;
+            foreach (int num in serie)
+            {
+                suma += num;
+                //estructuras de control.
+                //1. if. ejercicio. pedir al usuario la edad si es mayor de edad que le diga bienvenido.
+                Console.Write("Edad: ");
+                int edad = int.Parse(Console.ReadLine());
 
-            Boolean comprobar = true;
-            Console.WriteLine("El valor es: {0}", comprobar);
-           // Prioridad de los operadores aritméticos.
-           // se pone el sufijo m para la division con decimales.
-           float respuesta  = 5 + 8 - 2 * 5 / 4m + 1; //14.75 valor incorrecto; 11.5->Valor correcto
-            Console.WriteLine("La respuesta es: {0}", respuesta);
+                if (edad >= 18)
+                {
+                    Console.WriteLine("Bienvenido al mundo de las reposabilidades.");
+                }
+                else
+                {
+                    Console.WriteLine("Eres un adolescente, disfruta de la vida.");
+                }
+                decimal prom = suma / serie.Length;
+                Console.WriteLine("La suma es: {0}, el promedio {1}", suma, prom);
 
-            Console.write("Nombre: ");
-            string nombre = Console.ReadLine();
+                //Pausa.
+                Console.ReadLine();
 
-            Console.WriteLine("Hola {0} bienvenido", nombre);
-
-            DateTime fechaActual = new DateTime();
-            fechaActual = FechaHora.Ahora;
-            Console.WriteLine("La fecha actual es: {0}", fechaActual);
-            Console.WriteLine("La division de 5/4 es {0}", 5 / 4);
-            //Pausa.
-           Console.ReadLine();
+            }
 
         }
     }
