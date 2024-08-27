@@ -10,17 +10,19 @@ namespace MiPrimerProyecto
     {
         static void Main(string[] args)
         {
-            Console.Write("Num1: ");
+            //suma de dos numeros introducidos por el usuario
+            Console.WriteLine("ingrese el numero 1 que desea sumar ");
             int num1 = int.Parse(Console.ReadLine());
 
-            Console.Write("Num 2: ");
+            Console.WriteLine("ingrese el numero 2 para sumar ");
             int num2 = int.Parse(Console.ReadLine());
 
             int respuesta = num1 + num2;
-            Console.WriteLine("La suma de {0} + {1} = {2}", num1, num2, respuesta);
 
-            //Pausa.
-           Console.ReadLine();
+            Console.WriteLine("la suma es {0} + {1} = {2}", num1, num2, respuesta);
+
+            Console.ReadLine();
+
 
         }
     }

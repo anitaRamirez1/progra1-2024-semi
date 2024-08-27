@@ -1,0 +1,7 @@
+C:\Users\MINEDUCYT\OneDrive\Escritorio\progra1-semi-2024\SumaSbyte\SumaSbyte\bin\Debug\SumaSbyte.exe.config
+C:\Users\MINEDUCYT\OneDrive\Escritorio\progra1-semi-2024\SumaSbyte\SumaSbyte\bin\Debug\SumaSbyte.exe
+C:\Users\MINEDUCYT\OneDrive\Escritorio\progra1-semi-2024\SumaSbyte\SumaSbyte\bin\Debug\SumaSbyte.pdb
+C:\Users\MINEDUCYT\OneDrive\Escritorio\progra1-semi-2024\SumaSbyte\SumaSbyte\obj\Debug\SumaSbyte.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\OneDrive\Escritorio\progra1-semi-2024\SumaSbyte\SumaSbyte\obj\Debug\SumaSbyte.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\OneDrive\Escritorio\progra1-semi-2024\SumaSbyte\SumaSbyte\obj\Debug\SumaSbyte.exe
+C:\Users\MINEDUCYT\OneDrive\Escritorio\progra1-semi-2024\SumaSbyte\SumaSbyte\obj\Debug\SumaSbyte.pdb
