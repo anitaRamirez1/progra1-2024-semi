@@ -63,7 +63,7 @@ namespace conversorlb
             static void Convertirpie()
             {
                 string[] monedas = { "pie cuadrado", "vara cuadrada",  "yarda cuadrada", "metro cuadrado", "tarea", "manzana ", "hectarea" };
-                double[,] monedaTarifas = {
+                double[,] monedaTarifas = { 
             { 1, 0.1329, 0.111 , 0.092, 0.09, 0.70, 0.000009 }, // pie
             { 272.25, 1,30.25, 25.29, 0.69, 2.47, 0.00009 }, // Evara
             { 9, 0.033, 1, 0.8, 752.03, 0.69, 0.00008 }, // yarda
