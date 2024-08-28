@@ -147,6 +147,7 @@ namespace conversorlb
             Console.ReadKey();
         }
 
+
         static double CalcularImpuesto(double monto)
         {
             double[] rangos = { 0.01, 500.01, 1000.01, 2000.01, 3000.01, 6000, 8000, 18000.01, 30000.01, 60000.01, 100000.01, 200000.01, 300000.01, 400000.01, 500000.01, 10000000.1 };
