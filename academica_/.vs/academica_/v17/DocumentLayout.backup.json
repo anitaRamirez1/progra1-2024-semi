@@ -3,8 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\MINEDUCYT\\OneDrive\\Escritorio\\progra1-2024-semi\\academica_\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_MINEDUCYT_ONEDRIVE_ESCRITORIO_PROGRA1_2024_SEMI_ACADEMICA__ACADEMICA__BD_ACADEMICA.MDF/True/SqlTable/dbo.alumnos.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3E8C10F9-00DD-4D27-9E2D-DE4B7EBAFE3E}|academica_\\academica_.csproj|c:\\users\\mineducyt\\onedrive\\escritorio\\progra1-2024-semi\\academica_\\academica_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3E8C10F9-00DD-4D27-9E2D-DE4B7EBAFE3E}|academica_\\academica_.csproj|solutionrelative:academica_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8C10F9-00DD-4D27-9E2D-DE4B7EBAFE3E}|academica_\\academica_.csproj|C:\\Users\\MINEDUCYT\\OneDrive\\Escritorio\\progra1-2024-semi\\academica_\\academica_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8C10F9-00DD-4D27-9E2D-DE4B7EBAFE3E}|academica_\\academica_.csproj|solutionrelative:academica_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,6 +26,29 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "dbo.alumnos [Datos]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_MINEDUCYT_ONEDRIVE_ESCRITORIO_PROGRA1_2024_SEMI_ACADEMICA__ACADEMICA__BD_ACADEMICA.MDF/True/SqlTable/dbo.alumnos.sql",
+              "ToolTip": "dbo.alumnos [Datos]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-18T16:08:39.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\OneDrive\\Escritorio\\progra1-2024-semi\\academica_\\academica_\\Form1.cs",
+              "RelativeDocumentMoniker": "academica_\\Form1.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\OneDrive\\Escritorio\\progra1-2024-semi\\academica_\\academica_\\Form1.cs",
+              "RelativeToolTip": "academica_\\Form1.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T13:32:27.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\MINEDUCYT\\OneDrive\\Escritorio\\progra1-2024-semi\\academica_\\academica_\\Form1.cs",
               "RelativeDocumentMoniker": "academica_\\Form1.cs",

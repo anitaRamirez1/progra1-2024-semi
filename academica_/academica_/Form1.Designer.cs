@@ -40,8 +40,8 @@
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.groupDatosAlumnos = new System.Windows.Forms.GroupBox();
             this.grbNavegacionAlumno = new System.Windows.Forms.GroupBox();
-            this.grbEdicionAlumno = new System.Windows.Forms.GroupBox();
             this.btnPrimerAlumno = new System.Windows.Forms.Button();
+            this.grbEdicionAlumno = new System.Windows.Forms.GroupBox();
             this.groupDatosAlumnos.SuspendLayout();
             this.grbNavegacionAlumno.SuspendLayout();
             this.SuspendLayout();
@@ -163,15 +163,6 @@
             this.grbNavegacionAlumno.TabStop = false;
             this.grbNavegacionAlumno.Text = "Navegacion";
             // 
-            // grbEdicionAlumno
-            // 
-            this.grbEdicionAlumno.Location = new System.Drawing.Point(282, 320);
-            this.grbEdicionAlumno.Name = "grbEdicionAlumno";
-            this.grbEdicionAlumno.Size = new System.Drawing.Size(200, 100);
-            this.grbEdicionAlumno.TabIndex = 12;
-            this.grbEdicionAlumno.TabStop = false;
-            this.grbEdicionAlumno.Text = "navegacion";
-            // 
             // btnPrimerAlumno
             // 
             this.btnPrimerAlumno.Location = new System.Drawing.Point(11, 19);
@@ -180,6 +171,16 @@
             this.btnPrimerAlumno.TabIndex = 0;
             this.btnPrimerAlumno.Text = "|<";
             this.btnPrimerAlumno.UseVisualStyleBackColor = true;
+            this.btnPrimerAlumno.Click += new System.EventHandler(this.btnPrimerAlumno_Click);
+            // 
+            // grbEdicionAlumno
+            // 
+            this.grbEdicionAlumno.Location = new System.Drawing.Point(282, 320);
+            this.grbEdicionAlumno.Name = "grbEdicionAlumno";
+            this.grbEdicionAlumno.Size = new System.Drawing.Size(200, 100);
+            this.grbEdicionAlumno.TabIndex = 12;
+            this.grbEdicionAlumno.TabStop = false;
+            this.grbEdicionAlumno.Text = "navegacion";
             // 
             // Form1
             // 
@@ -191,6 +192,7 @@
             this.Controls.Add(this.groupDatosAlumnos);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.groupDatosAlumnos.ResumeLayout(false);
             this.groupDatosAlumnos.PerformLayout();
             this.grbNavegacionAlumno.ResumeLayout(false);

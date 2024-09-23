@@ -1,0 +1,12 @@
+C:\Users\MINEDUCYT\OneDrive\Escritorio\progra1-2024-semi\academica_\academica_\bin\Debug\bd_academica.mdf
+C:\Users\MINEDUCYT\OneDrive\Escritorio\progra1-2024-semi\academica_\academica_\bin\Debug\bd_academica_log.ldf
+C:\Users\MINEDUCYT\OneDrive\Escritorio\progra1-2024-semi\academica_\academica_\bin\Debug\academica_.exe.config
+C:\Users\MINEDUCYT\OneDrive\Escritorio\progra1-2024-semi\academica_\academica_\bin\Debug\academica_.exe
+C:\Users\MINEDUCYT\OneDrive\Escritorio\progra1-2024-semi\academica_\academica_\bin\Debug\academica_.pdb
+C:\Users\MINEDUCYT\OneDrive\Escritorio\progra1-2024-semi\academica_\academica_\obj\Debug\academica_.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\OneDrive\Escritorio\progra1-2024-semi\academica_\academica_\obj\Debug\academica.Conexion.resources
+C:\Users\MINEDUCYT\OneDrive\Escritorio\progra1-2024-semi\academica_\academica_\obj\Debug\academica_.Properties.Resources.resources
+C:\Users\MINEDUCYT\OneDrive\Escritorio\progra1-2024-semi\academica_\academica_\obj\Debug\academica_.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\OneDrive\Escritorio\progra1-2024-semi\academica_\academica_\obj\Debug\academica_.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\OneDrive\Escritorio\progra1-2024-semi\academica_\academica_\obj\Debug\academica_.exe
+C:\Users\MINEDUCYT\OneDrive\Escritorio\progra1-2024-semi\academica_\academica_\obj\Debug\academica_.pdb

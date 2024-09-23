@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
 namespace academica_
 {
     public partial class Form1 : Form
@@ -28,6 +29,16 @@ namespace academica_
         }
 
         private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnPrimerAlumno_Click(object sender, EventArgs e)
         {
 
         }
