@@ -50,3 +50,4 @@ C:\Users\MINEDUCYT\OneDrive\Escritorio\progra1-2024-semi\PrograI-2024-Semi-bloqu
 C:\Users\MINEDUCYT\OneDrive\Escritorio\progra1-2024-semi\PrograI-2024-Semi-bloque2\PrograI-2024-Semi-bloque2\academica\academica\obj\Debug\academica.csproj.CoreCompileInputs.cache
 C:\Users\MINEDUCYT\OneDrive\Escritorio\progra1-2024-semi\PrograI-2024-Semi-bloque2\PrograI-2024-Semi-bloque2\academica\academica\obj\Debug\academica.exe
 C:\Users\MINEDUCYT\OneDrive\Escritorio\progra1-2024-semi\PrograI-2024-Semi-bloque2\PrograI-2024-Semi-bloque2\academica\academica\obj\Debug\academica.pdb
+C:\Users\MINEDUCYT\OneDrive\Escritorio\progra1-2024-semi\PrograI-2024-Semi-bloque2\PrograI-2024-Semi-bloque2\academica\academica\obj\Debug\academica.docentes.resources
