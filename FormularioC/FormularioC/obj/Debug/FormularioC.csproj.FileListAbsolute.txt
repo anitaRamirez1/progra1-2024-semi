@@ -1,0 +1,5 @@
+C:\Users\MINEDUCYT\OneDrive\Escritorio\progra1-2024-semi\FormularioC\FormularioC\obj\Debug\FormularioC.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\OneDrive\Escritorio\progra1-2024-semi\FormularioC\FormularioC\obj\Debug\academica.Conexion.resources
+C:\Users\MINEDUCYT\OneDrive\Escritorio\progra1-2024-semi\FormularioC\FormularioC\obj\Debug\FormularioC.Properties.Resources.resources
+C:\Users\MINEDUCYT\OneDrive\Escritorio\progra1-2024-semi\FormularioC\FormularioC\obj\Debug\FormularioC.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\OneDrive\Escritorio\progra1-2024-semi\FormularioC\FormularioC\obj\Debug\FormularioC.csproj.CoreCompileInputs.cache
