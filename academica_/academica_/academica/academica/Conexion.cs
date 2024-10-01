@@ -31,8 +31,8 @@ namespace academica {
             miAdaptador.Fill(ds, "materias");
 
             miAdaptador.SelectCommand = misComandos;
-            misComandos.CommandText = "SELECT * FROM docentes";
-            miAdaptador.Fill(ds, "docentes");
+            misComandos.CommandText = "SELECT * FROM Docentes";
+            miAdaptador.Fill(ds, "Docentes");
 
 
             return ds;
@@ -71,13 +71,13 @@ namespace academica {
             String sql = "";
             if (datos[0] == "nuevo")
             {
-                sql = "INSERT INTO docentes(codigo, nombre, direccion, telefono, dui) VALUES('" +
-                    datos[2] + "','" + datos[3] + "','" + datos[4] + "','" + datos[5] + "','" + datos[6] + "')";
+                sql = "INSERT INTO docentes(codigo, nombre, direccion, telefono, dui, especialidad) VALUES('" +
+                    datos[2] + "','" + datos[3] + "','" + datos[4] + "','" + datos[5] + "','" + datos[6] + "','" + datos[7] + "')";
             }
             else if (datos[0] == "modificar")
             {
-                sql = "UPDATE docentes SET codigo='" + datos[2] + "', nombre='" + datos[3] + "', direccion='" + datos[4] + "', telefono='" +
-                    datos[5] + "', dui='" + datos[6] + "' WHERE idDocentes=" + datos[1];
+                sql = "UPDATE Docentes SET codigo='" + datos[2] + "', nombre='" + datos[3] + "', direccion='" + datos[4] + "', telefono='" +
+                    datos[5] + "', dui='" + datos[6] + "', especialidad='" + datos[7]+ "' WHERE idDocentes=" + datos[1];
             }
             else if (datos[0] == "eliminar")
             {

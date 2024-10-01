@@ -57,6 +57,8 @@
             this.txtNombreDocentes = new System.Windows.Forms.TextBox();
             this.lblCodigoDocentes = new System.Windows.Forms.Label();
             this.txtCodigoDocentes = new System.Windows.Forms.TextBox();
+            this.lblEspecialidadDocente = new System.Windows.Forms.Label();
+            this.CboxEspecialidadDocente = new System.Windows.Forms.ComboBox();
             ((System.ComponentModel.ISupportInitialize)(this.grdDatosDocentes)).BeginInit();
             this.grbEdicionDocentes.SuspendLayout();
             this.grbNavegacionDocentes.SuspendLayout();
@@ -250,6 +252,8 @@
             // 
             // grbDatosDocentes
             // 
+            this.grbDatosDocentes.Controls.Add(this.CboxEspecialidadDocente);
+            this.grbDatosDocentes.Controls.Add(this.lblEspecialidadDocente);
             this.grbDatosDocentes.Controls.Add(this.lblDuiDocentes);
             this.grbDatosDocentes.Controls.Add(this.txtDuiDocentes);
             this.grbDatosDocentes.Controls.Add(this.lblTelefonoDocentes);
@@ -263,7 +267,7 @@
             this.grbDatosDocentes.Enabled = false;
             this.grbDatosDocentes.Location = new System.Drawing.Point(8, 22);
             this.grbDatosDocentes.Name = "grbDatosDocentes";
-            this.grbDatosDocentes.Size = new System.Drawing.Size(370, 258);
+            this.grbDatosDocentes.Size = new System.Drawing.Size(370, 314);
             this.grbDatosDocentes.TabIndex = 11;
             this.grbDatosDocentes.TabStop = false;
             this.grbDatosDocentes.Text = "Datos Docentes";
@@ -353,6 +357,30 @@
             this.txtCodigoDocentes.Size = new System.Drawing.Size(100, 20);
             this.txtCodigoDocentes.TabIndex = 0;
             // 
+            // lblEspecialidadDocente
+            // 
+            this.lblEspecialidadDocente.AutoSize = true;
+            this.lblEspecialidadDocente.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblEspecialidadDocente.Location = new System.Drawing.Point(31, 251);
+            this.lblEspecialidadDocente.Name = "lblEspecialidadDocente";
+            this.lblEspecialidadDocente.Size = new System.Drawing.Size(123, 24);
+            this.lblEspecialidadDocente.TabIndex = 11;
+            this.lblEspecialidadDocente.Text = "Especialidad:";
+            // 
+            // CboxEspecialidadDocente
+            // 
+            this.CboxEspecialidadDocente.FormattingEnabled = true;
+            this.CboxEspecialidadDocente.Items.AddRange(new object[] {
+            "Informatico",
+            "Matematico",
+            "Contador",
+            "Abogado",
+            "Salud"});
+            this.CboxEspecialidadDocente.Location = new System.Drawing.Point(160, 254);
+            this.CboxEspecialidadDocente.Name = "CboxEspecialidadDocente";
+            this.CboxEspecialidadDocente.Size = new System.Drawing.Size(121, 21);
+            this.CboxEspecialidadDocente.TabIndex = 12;
+            // 
             // docentes
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -409,5 +437,7 @@
         private System.Windows.Forms.TextBox txtNombreDocentes;
         private System.Windows.Forms.Label lblCodigoDocentes;
         private System.Windows.Forms.TextBox txtCodigoDocentes;
+        private System.Windows.Forms.ComboBox CboxEspecialidadDocente;
+        private System.Windows.Forms.Label lblEspecialidadDocente;
     }
 }

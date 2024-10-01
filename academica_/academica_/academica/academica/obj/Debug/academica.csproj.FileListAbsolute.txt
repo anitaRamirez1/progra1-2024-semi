@@ -66,3 +66,18 @@ C:\Users\MINEDUCYT\OneDrive\Escritorio\progra1-2024-semi\academica_\academica_\a
 C:\Users\MINEDUCYT\OneDrive\Escritorio\progra1-2024-semi\academica_\academica_\academica\academica\obj\Debug\academica.csproj.CoreCompileInputs.cache
 C:\Users\MINEDUCYT\OneDrive\Escritorio\progra1-2024-semi\academica_\academica_\academica\academica\obj\Debug\academica.exe
 C:\Users\MINEDUCYT\OneDrive\Escritorio\progra1-2024-semi\academica_\academica_\academica\academica\obj\Debug\academica.pdb
+C:\Users\MINEDUCYT\Downloads\repo Ana\academica_\academica_\academica\academica\bin\Debug\db_academica.mdf
+C:\Users\MINEDUCYT\Downloads\repo Ana\academica_\academica_\academica\academica\bin\Debug\db_academica_log.ldf
+C:\Users\MINEDUCYT\Downloads\repo Ana\academica_\academica_\academica\academica\bin\Debug\academica.exe.config
+C:\Users\MINEDUCYT\Downloads\repo Ana\academica_\academica_\academica\academica\bin\Debug\academica.exe
+C:\Users\MINEDUCYT\Downloads\repo Ana\academica_\academica_\academica\academica\bin\Debug\academica.pdb
+C:\Users\MINEDUCYT\Downloads\repo Ana\academica_\academica_\academica\academica\obj\Debug\academica.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Downloads\repo Ana\academica_\academica_\academica\academica\obj\Debug\academica.docentes.resources
+C:\Users\MINEDUCYT\Downloads\repo Ana\academica_\academica_\academica\academica\obj\Debug\academica.Form1.resources
+C:\Users\MINEDUCYT\Downloads\repo Ana\academica_\academica_\academica\academica\obj\Debug\academica.materias.resources
+C:\Users\MINEDUCYT\Downloads\repo Ana\academica_\academica_\academica\academica\obj\Debug\academica.principal.resources
+C:\Users\MINEDUCYT\Downloads\repo Ana\academica_\academica_\academica\academica\obj\Debug\academica.Properties.Resources.resources
+C:\Users\MINEDUCYT\Downloads\repo Ana\academica_\academica_\academica\academica\obj\Debug\academica.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Downloads\repo Ana\academica_\academica_\academica\academica\obj\Debug\academica.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Downloads\repo Ana\academica_\academica_\academica\academica\obj\Debug\academica.exe
+C:\Users\MINEDUCYT\Downloads\repo Ana\academica_\academica_\academica\academica\obj\Debug\academica.pdb

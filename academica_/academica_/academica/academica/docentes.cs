@@ -46,6 +46,7 @@ namespace academica
                 txtDireccionDocentes.Text = miTabla.Rows[posicion].ItemArray[3].ToString();
                 txtTelefonoDocentes.Text = miTabla.Rows[posicion].ItemArray[4].ToString();
                 txtDuiDocentes.Text = miTabla.Rows[posicion].ItemArray[5].ToString();
+                CboxEspecialidadDocente.Text= miTabla.Rows[posicion].ItemArray[6].ToString();
 
                 lblRegistrosDocentes.Text = (posicion + 1) + " de " + miTabla.Rows.Count;
             }
@@ -107,7 +108,7 @@ namespace academica
             {//Guardar
                 String[] docentes = {
                     accion, miTabla.Rows[posicion].ItemArray[0].ToString(),
-                    txtCodigoDocentes.Text, txtNombreDocentes.Text, txtDireccionDocentes.Text, txtTelefonoDocentes.Text, txtDuiDocentes.Text
+                    txtCodigoDocentes.Text, txtNombreDocentes.Text, txtDireccionDocentes.Text, txtTelefonoDocentes.Text, txtDuiDocentes.Text, CboxEspecialidadDocente.Text
                 };
                 String respuesta = objConexion.administrarDocentes(docentes);
                 if (respuesta != "1")
@@ -130,6 +131,7 @@ namespace academica
             txtDireccionDocentes.Text = "";
             txtTelefonoDocentes.Text = "";
             txtDuiDocentes.Text = "";
+            CboxEspecialidadDocente.Text = "";
         }
 
         private void btnModificarDocentes_Click(object sender, EventArgs e)

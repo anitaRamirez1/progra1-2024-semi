@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\academica_",
+    "\\academica_\\academica_",
+    "\\academica_\\academica_\\academica"
   ],
-  "SelectedNode": "\\SumaSbyte.sln",
+  "SelectedNode": "\\academica_\\academica_\\academica\\academica.sln",
   "PreviewInSolutionExplorer": false
 }
