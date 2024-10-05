@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rama3", "rama3\rama3.csproj", "{847D6267-2E28-43B9-9BC7-3AEDCE2AD48A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{847D6267-2E28-43B9-9BC7-3AEDCE2AD48A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{847D6267-2E28-43B9-9BC7-3AEDCE2AD48A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{847D6267-2E28-43B9-9BC7-3AEDCE2AD48A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{847D6267-2E28-43B9-9BC7-3AEDCE2AD48A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84FAA199-C605-4E67-8068-1697657F716B}
+	EndGlobalSection
+EndGlobal
