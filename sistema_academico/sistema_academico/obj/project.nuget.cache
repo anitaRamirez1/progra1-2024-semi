@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/BqRMcC8wNc=",
+  "dgSpecHash": "1PKa3ymD21k=",
   "success": true,
-  "projectFilePath": "C:\\Users\\MINEDUCYT\\Downloads\\Repo-Ana\\Progra-c3\\sistema_academico\\sistema_academico\\sistema_academico.csproj",
+  "projectFilePath": "C:\\Users\\MINEDUCYT\\Downloads\\Repo-Ana\\sistema_academico\\sistema_academico\\sistema_academico.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MINEDUCYT\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\MINEDUCYT\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MINEDUCYT\\Downloads\\Repo-Ana\\sistema_academico\\",
+  "WorkspaceRootPath": "C:\\Users\\MINEDUCYT\\Downloads\\Repo-Ana\\Progra-c3\\sistema_academico\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B4FE16F-4D58-4CFC-8474-17424349A910}|sistema_academico\\sistema_academico.csproj|c:\\users\\mineducyt\\downloads\\repo-ana\\sistema_academico\\sistema_academico\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7B4FE16F-4D58-4CFC-8474-17424349A910}|sistema_academico\\sistema_academico.csproj|c:\\users\\mineducyt\\downloads\\repo-ana\\progra-c3\\sistema_academico\\sistema_academico\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B4FE16F-4D58-4CFC-8474-17424349A910}|sistema_academico\\sistema_academico.csproj|solutionrelative:sistema_academico\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B4FE16F-4D58-4CFC-8474-17424349A910}|sistema_academico\\sistema_academico.csproj|c:\\users\\mineducyt\\downloads\\repo-ana\\sistema_academico\\sistema_academico\\models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7B4FE16F-4D58-4CFC-8474-17424349A910}|sistema_academico\\sistema_academico.csproj|c:\\users\\mineducyt\\downloads\\repo-ana\\progra-c3\\sistema_academico\\sistema_academico\\models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B4FE16F-4D58-4CFC-8474-17424349A910}|sistema_academico\\sistema_academico.csproj|solutionrelative:sistema_academico\\models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B4FE16F-4D58-4CFC-8474-17424349A910}|sistema_academico\\sistema_academico.csproj|c:\\users\\mineducyt\\downloads\\repo-ana\\sistema_academico\\sistema_academico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7B4FE16F-4D58-4CFC-8474-17424349A910}|sistema_academico\\sistema_academico.csproj|c:\\users\\mineducyt\\downloads\\repo-ana\\progra-c3\\sistema_academico\\sistema_academico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B4FE16F-4D58-4CFC-8474-17424349A910}|sistema_academico\\sistema_academico.csproj|solutionrelative:sistema_academico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B4FE16F-4D58-4CFC-8474-17424349A910}|sistema_academico\\sistema_academico.csproj|c:\\users\\mineducyt\\downloads\\repo-ana\\sistema_academico\\sistema_academico\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{7B4FE16F-4D58-4CFC-8474-17424349A910}|sistema_academico\\sistema_academico.csproj|c:\\users\\mineducyt\\downloads\\repo-ana\\progra-c3\\sistema_academico\\sistema_academico\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7B4FE16F-4D58-4CFC-8474-17424349A910}|sistema_academico\\sistema_academico.csproj|solutionrelative:sistema_academico\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B4FE16F-4D58-4CFC-8474-17424349A910}|sistema_academico\\sistema_academico.csproj|c:\\users\\mineducyt\\downloads\\repo-ana\\sistema_academico\\sistema_academico\\sistema_academico.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{7B4FE16F-4D58-4CFC-8474-17424349A910}|sistema_academico\\sistema_academico.csproj|c:\\users\\mineducyt\\downloads\\repo-ana\\progra-c3\\sistema_academico\\sistema_academico\\sistema_academico.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{7B4FE16F-4D58-4CFC-8474-17424349A910}|sistema_academico\\sistema_academico.csproj|solutionrelative:sistema_academico\\sistema_academico.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
@@ -43,21 +43,22 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Alumno.cs",
-              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Downloads\\Repo-Ana\\sistema_academico\\sistema_academico\\Models\\Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Downloads\\Repo-Ana\\Progra-c3\\sistema_academico\\sistema_academico\\Models\\Alumno.cs",
               "RelativeDocumentMoniker": "sistema_academico\\Models\\Alumno.cs",
-              "ToolTip": "C:\\Users\\MINEDUCYT\\Downloads\\Repo-Ana\\sistema_academico\\sistema_academico\\Models\\Alumno.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Downloads\\Repo-Ana\\Progra-c3\\sistema_academico\\sistema_academico\\Models\\Alumno.cs",
               "RelativeToolTip": "sistema_academico\\Models\\Alumno.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T20:29:04.204Z"
+              "WhenOpened": "2024-10-05T20:29:04.204Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MyDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Downloads\\Repo-Ana\\sistema_academico\\sistema_academico\\Models\\MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Downloads\\Repo-Ana\\Progra-c3\\sistema_academico\\sistema_academico\\Models\\MyDbContext.cs",
               "RelativeDocumentMoniker": "sistema_academico\\Models\\MyDbContext.cs",
-              "ToolTip": "C:\\Users\\MINEDUCYT\\Downloads\\Repo-Ana\\sistema_academico\\sistema_academico\\Models\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Downloads\\Repo-Ana\\Progra-c3\\sistema_academico\\sistema_academico\\Models\\MyDbContext.cs",
               "RelativeToolTip": "sistema_academico\\Models\\MyDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -68,9 +69,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Downloads\\Repo-Ana\\sistema_academico\\sistema_academico\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Downloads\\Repo-Ana\\Progra-c3\\sistema_academico\\sistema_academico\\appsettings.json",
               "RelativeDocumentMoniker": "sistema_academico\\appsettings.json",
-              "ToolTip": "C:\\Users\\MINEDUCYT\\Downloads\\Repo-Ana\\sistema_academico\\sistema_academico\\appsettings.json",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Downloads\\Repo-Ana\\Progra-c3\\sistema_academico\\sistema_academico\\appsettings.json",
               "RelativeToolTip": "sistema_academico\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -80,13 +81,14 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Downloads\\Repo-Ana\\sistema_academico\\sistema_academico\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Downloads\\Repo-Ana\\Progra-c3\\sistema_academico\\sistema_academico\\Program.cs",
               "RelativeDocumentMoniker": "sistema_academico\\Program.cs",
-              "ToolTip": "C:\\Users\\MINEDUCYT\\Downloads\\Repo-Ana\\sistema_academico\\sistema_academico\\Program.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Downloads\\Repo-Ana\\Progra-c3\\sistema_academico\\sistema_academico\\Program.cs",
               "RelativeToolTip": "sistema_academico\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T20:29:04.566Z"
+              "WhenOpened": "2024-10-05T20:29:04.566Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -101,9 +103,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "sistema_academico.csproj",
-              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Downloads\\Repo-Ana\\sistema_academico\\sistema_academico\\sistema_academico.csproj",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Downloads\\Repo-Ana\\Progra-c3\\sistema_academico\\sistema_academico\\sistema_academico.csproj",
               "RelativeDocumentMoniker": "sistema_academico\\sistema_academico.csproj",
-              "ToolTip": "C:\\Users\\MINEDUCYT\\Downloads\\Repo-Ana\\sistema_academico\\sistema_academico\\sistema_academico.csproj",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Downloads\\Repo-Ana\\Progra-c3\\sistema_academico\\sistema_academico\\sistema_academico.csproj",
               "RelativeToolTip": "sistema_academico\\sistema_academico.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",

@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MINEDUCYT\\Downloads\\Repo-Ana\\rama3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{847D6267-2E28-43B9-9BC7-3AEDCE2AD48A}|rama3\\rama3.csproj|c:\\users\\mineducyt\\downloads\\repo-ana\\rama3\\rama3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{847D6267-2E28-43B9-9BC7-3AEDCE2AD48A}|rama3\\rama3.csproj|solutionrelative:rama3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Downloads\\Repo-Ana\\rama3\\rama3\\Form1.cs",
+              "RelativeDocumentMoniker": "rama3\\Form1.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Downloads\\Repo-Ana\\rama3\\rama3\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "rama3\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T20:32:18.168Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
