@@ -149,9 +149,13 @@ namespace academica {
         }
         private void seleccionarAllumno() {
 
-            posicion = miTabla.Rows.IndexOf(miTabla.Rows.Find(grdDatosAlumnos.CurrentRow.Cells["idAllumnos"].Value.ToString()));
+            posicion = miTabla.Rows.IndexOf(miTabla.Rows.Find(grdDatosAlumnos.CurrentRow.Cells["idAlumno"].Value.ToString()));
             mostrarDatosAlumno();
         }
+
+
+
+
         private void grdDatosAlumnos_CellClick(object sender, DataGridViewCellEventArgs e) {
             seleccionarAllumno();
         }
@@ -167,9 +171,15 @@ namespace academica {
             mostrarDatosAlumno();
         }
 
-        private void txtBuscarAlumnos_TextChanged(object sender, EventArgs e)
+        private void txtBuscarAllumnos_TextChanged(object sender, EventArgs e)
         {
+            posicion = miTabla.Rows.IndexOf(miTabla.Rows.Find(grdDatosAlumnos.CurrentRow.Cells["idAlumno"].Value.ToString()));
+            mostrarDatosAlumno();
 
+            filtrarDatos(txtBuscarAlumnos.Text);
+            //if (e.KeyValue == 13) {//tecla enter
+            seleccionarAllumno();
+            //}
         }
     }
 }

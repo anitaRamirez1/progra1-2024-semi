@@ -337,7 +337,7 @@
             this.txtBuscarAlumnos.Name = "txtBuscarAlumnos";
             this.txtBuscarAlumnos.Size = new System.Drawing.Size(347, 20);
             this.txtBuscarAlumnos.TabIndex = 10;
-            this.txtBuscarAlumnos.TextChanged += new System.EventHandler(this.txtBuscarAlumnos_TextChanged);
+
             this.txtBuscarAlumnos.KeyUp += new System.Windows.Forms.KeyEventHandler(this.txtBuscarAlumnos_KeyUp);
             // 
             // lblBuscarAlumnos
