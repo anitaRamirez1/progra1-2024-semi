@@ -361,6 +361,7 @@
             this.Controls.Add(this.grbEdicionAlumno);
             this.Controls.Add(this.grbNavegacionAlumno);
             this.Controls.Add(this.grbDatosAlumno);
+            this.KeyPreview = true;
             this.Name = "Form1";
             this.Text = "ADMINISTRACION DE ALUMNOS";
             this.Load += new System.EventHandler(this.Form1_Load);

@@ -148,7 +148,8 @@ namespace academica {
             //}
         }
         private void seleccionarAllumno() {
-            posicion = miTabla.Rows.IndexOf(miTabla.Rows.Find(grdDatosAlumnos.CurrentRow.Cells["idAlumno"].Value.ToString()));
+
+            posicion = miTabla.Rows.IndexOf(miTabla.Rows.Find(grdDatosAlumnos.CurrentRow.Cells["idAllumnos"].Value.ToString()));
             mostrarDatosAlumno();
         }
         private void grdDatosAlumnos_CellClick(object sender, DataGridViewCellEventArgs e) {
@@ -162,6 +163,8 @@ namespace academica {
         private void grdDatosAlumnos_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
 
+            posicion = miTabla.Rows.IndexOf(miTabla.Rows.Find(grdDatosAlumnos.CurrentRow.Cells["idAlumno"].Value.ToString()));
+            mostrarDatosAlumno();
         }
 
         private void txtBuscarAlumnos_TextChanged(object sender, EventArgs e)

@@ -190,6 +190,7 @@ namespace academica
             seleccionarDocentes();
             //}
         }
+      
         private void seleccionarDocentes()
         {
             posicion = miTabla.Rows.IndexOf(miTabla.Rows.Find(grdDatosDocentes.CurrentRow.Cells["idDocentes"].Value.ToString()));
