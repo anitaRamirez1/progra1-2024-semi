@@ -1,0 +1,11 @@
+C:\Users\MINEDUCYT\Downloads\repo Ana\productos\productos\bin\Debug\productos.exe.config
+C:\Users\MINEDUCYT\Downloads\repo Ana\productos\productos\bin\Debug\productos.exe
+C:\Users\MINEDUCYT\Downloads\repo Ana\productos\productos\bin\Debug\productos.pdb
+C:\Users\MINEDUCYT\Downloads\repo Ana\productos\productos\obj\Debug\productos.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Downloads\repo Ana\productos\productos\obj\Debug\productos.ComprarP.resources
+C:\Users\MINEDUCYT\Downloads\repo Ana\productos\productos\obj\Debug\productos.productos.resources
+C:\Users\MINEDUCYT\Downloads\repo Ana\productos\productos\obj\Debug\productos.Properties.Resources.resources
+C:\Users\MINEDUCYT\Downloads\repo Ana\productos\productos\obj\Debug\productos.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Downloads\repo Ana\productos\productos\obj\Debug\productos.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Downloads\repo Ana\productos\productos\obj\Debug\productos.exe
+C:\Users\MINEDUCYT\Downloads\repo Ana\productos\productos\obj\Debug\productos.pdb

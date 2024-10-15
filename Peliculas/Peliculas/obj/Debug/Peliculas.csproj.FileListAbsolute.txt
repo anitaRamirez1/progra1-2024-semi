@@ -1,0 +1,11 @@
+C:\Users\MINEDUCYT\Downloads\repo Ana\Peliculas\Peliculas\bin\Debug\Peliculas.exe.config
+C:\Users\MINEDUCYT\Downloads\repo Ana\Peliculas\Peliculas\bin\Debug\Peliculas.exe
+C:\Users\MINEDUCYT\Downloads\repo Ana\Peliculas\Peliculas\bin\Debug\Peliculas.pdb
+C:\Users\MINEDUCYT\Downloads\repo Ana\Peliculas\Peliculas\obj\Debug\Peliculas.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Downloads\repo Ana\Peliculas\Peliculas\obj\Debug\Peliculas.ExplorarPeliculas.resources
+C:\Users\MINEDUCYT\Downloads\repo Ana\Peliculas\Peliculas\obj\Debug\Peliculas.Peliculas.resources
+C:\Users\MINEDUCYT\Downloads\repo Ana\Peliculas\Peliculas\obj\Debug\Peliculas.Properties.Resources.resources
+C:\Users\MINEDUCYT\Downloads\repo Ana\Peliculas\Peliculas\obj\Debug\Peliculas.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Downloads\repo Ana\Peliculas\Peliculas\obj\Debug\Peliculas.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Downloads\repo Ana\Peliculas\Peliculas\obj\Debug\Peliculas.exe
+C:\Users\MINEDUCYT\Downloads\repo Ana\Peliculas\Peliculas\obj\Debug\Peliculas.pdb
