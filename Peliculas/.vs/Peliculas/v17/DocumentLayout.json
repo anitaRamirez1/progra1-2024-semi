@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\MINEDUCYT\\Downloads\\repo Ana\\Peliculas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F4C6EEA-E4D1-45DB-80A9-2A1502BEE052}|Peliculas\\Peliculas.csproj|c:\\users\\mineducyt\\downloads\\repo ana\\peliculas\\peliculas\\explorarpeliculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4F4C6EEA-E4D1-45DB-80A9-2A1502BEE052}|Peliculas\\Peliculas.csproj|solutionrelative:peliculas\\explorarpeliculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F4C6EEA-E4D1-45DB-80A9-2A1502BEE052}|Peliculas\\Peliculas.csproj|c:\\users\\mineducyt\\downloads\\repo ana\\peliculas\\peliculas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F4C6EEA-E4D1-45DB-80A9-2A1502BEE052}|Peliculas\\Peliculas.csproj|solutionrelative:peliculas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F4C6EEA-E4D1-45DB-80A9-2A1502BEE052}|Peliculas\\Peliculas.csproj|C:\\Users\\MINEDUCYT\\Downloads\\repo Ana\\Peliculas\\peliculas\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4C6EEA-E4D1-45DB-80A9-2A1502BEE052}|Peliculas\\Peliculas.csproj|solutionrelative:peliculas\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F4C6EEA-E4D1-45DB-80A9-2A1502BEE052}|Peliculas\\Peliculas.csproj|c:\\users\\mineducyt\\downloads\\repo ana\\peliculas\\peliculas\\explorarpeliculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F4C6EEA-E4D1-45DB-80A9-2A1502BEE052}|Peliculas\\Peliculas.csproj|solutionrelative:peliculas\\explorarpeliculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F4C6EEA-E4D1-45DB-80A9-2A1502BEE052}|Peliculas\\Peliculas.csproj|c:\\users\\mineducyt\\downloads\\repo ana\\peliculas\\peliculas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4F4C6EEA-E4D1-45DB-80A9-2A1502BEE052}|Peliculas\\Peliculas.csproj|C:\\Users\\MINEDUCYT\\Downloads\\repo Ana\\Peliculas\\peliculas\\explorarpeliculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F4C6EEA-E4D1-45DB-80A9-2A1502BEE052}|Peliculas\\Peliculas.csproj|solutionrelative:peliculas\\explorarpeliculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4C6EEA-E4D1-45DB-80A9-2A1502BEE052}|Peliculas\\Peliculas.csproj|C:\\Users\\MINEDUCYT\\Downloads\\repo Ana\\Peliculas\\peliculas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4F4C6EEA-E4D1-45DB-80A9-2A1502BEE052}|Peliculas\\Peliculas.csproj|solutionrelative:peliculas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4C6EEA-E4D1-45DB-80A9-2A1502BEE052}|Peliculas\\Peliculas.csproj|C:\\Users\\MINEDUCYT\\Downloads\\repo Ana\\Peliculas\\peliculas\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F4C6EEA-E4D1-45DB-80A9-2A1502BEE052}|Peliculas\\Peliculas.csproj|solutionrelative:peliculas\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4C6EEA-E4D1-45DB-80A9-2A1502BEE052}|Peliculas\\Peliculas.csproj|C:\\Users\\MINEDUCYT\\Downloads\\repo Ana\\Peliculas\\peliculas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4C6EEA-E4D1-45DB-80A9-2A1502BEE052}|Peliculas\\Peliculas.csproj|solutionrelative:peliculas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,42 +34,65 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "Compra.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Downloads\\repo Ana\\Peliculas\\Peliculas\\Compra.cs",
+              "RelativeDocumentMoniker": "Peliculas\\Compra.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Downloads\\repo Ana\\Peliculas\\Peliculas\\Compra.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Peliculas\\Compra.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T22:11:02.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Downloads\\repo Ana\\Peliculas\\Peliculas\\Conexion.cs",
+              "RelativeDocumentMoniker": "Peliculas\\Conexion.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Downloads\\repo Ana\\Peliculas\\Peliculas\\Conexion.cs",
+              "RelativeToolTip": "Peliculas\\Conexion.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T22:10:09.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Downloads\\repo Ana\\Peliculas\\Peliculas\\Form1.cs",
               "RelativeDocumentMoniker": "Peliculas\\Form1.cs",
               "ToolTip": "C:\\Users\\MINEDUCYT\\Downloads\\repo Ana\\Peliculas\\Peliculas\\Form1.cs",
               "RelativeToolTip": "Peliculas\\Form1.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAlwBcAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAlwAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T01:32:37.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T01:32:37.838Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ExplorarPeliculas.cs",
               "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Downloads\\repo Ana\\Peliculas\\Peliculas\\ExplorarPeliculas.cs",
               "RelativeDocumentMoniker": "Peliculas\\ExplorarPeliculas.cs",
-              "ToolTip": "C:\\Users\\MINEDUCYT\\Downloads\\repo Ana\\Peliculas\\Peliculas\\ExplorarPeliculas.cs*",
-              "RelativeToolTip": "Peliculas\\ExplorarPeliculas.cs*",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Downloads\\repo Ana\\Peliculas\\Peliculas\\ExplorarPeliculas.cs",
+              "RelativeToolTip": "Peliculas\\ExplorarPeliculas.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAgwEAAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T01:26:56.986Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ExplorarPeliculas.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Downloads\\repo Ana\\Peliculas\\Peliculas\\ExplorarPeliculas.cs",
               "RelativeDocumentMoniker": "Peliculas\\ExplorarPeliculas.cs",
-              "ToolTip": "C:\\Users\\MINEDUCYT\\Downloads\\repo Ana\\Peliculas\\Peliculas\\ExplorarPeliculas.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "Peliculas\\ExplorarPeliculas.cs [Dise\u00F1o]*",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Downloads\\repo Ana\\Peliculas\\Peliculas\\ExplorarPeliculas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Peliculas\\ExplorarPeliculas.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T01:22:58.583Z",
               "EditorCaption": " [Dise\u00F1o]"
@@ -75,8 +106,7 @@
               "ToolTip": "C:\\Users\\MINEDUCYT\\Downloads\\repo Ana\\Peliculas\\Peliculas\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Peliculas\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T00:49:19.068Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-10-15T00:49:19.068Z"
             }
           ]
         }

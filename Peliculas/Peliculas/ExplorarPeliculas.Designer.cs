@@ -31,6 +31,12 @@
             this.lblBuscarDocentes = new System.Windows.Forms.Label();
             this.txtBuscarDocentes = new System.Windows.Forms.TextBox();
             this.grdDatosPelicula = new System.Windows.Forms.DataGridView();
+            this.idAlumno = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.codigo = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.nombre = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Año = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Precio = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Descripcion = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.grbNavegacionPeliculas = new System.Windows.Forms.GroupBox();
             this.lblRegistrosPeliculas = new System.Windows.Forms.Label();
             this.btnUltimaPelicula = new System.Windows.Forms.Button();
@@ -50,12 +56,6 @@
             this.txtCodigoPeliculas = new System.Windows.Forms.TextBox();
             this.btnComprarPelicula = new System.Windows.Forms.Button();
             this.btnVolver = new System.Windows.Forms.Button();
-            this.idAlumno = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.codigo = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.nombre = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Año = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Precio = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Descripcion = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.grdDatosPelicula)).BeginInit();
             this.grbNavegacionPeliculas.SuspendLayout();
             this.grbDatosPeliculas.SuspendLayout();
@@ -95,6 +95,48 @@
             this.grdDatosPelicula.ReadOnly = true;
             this.grdDatosPelicula.Size = new System.Drawing.Size(527, 252);
             this.grdDatosPelicula.TabIndex = 20;
+            // 
+            // idAlumno
+            // 
+            this.idAlumno.DataPropertyName = "idAlumno";
+            this.idAlumno.HeaderText = "ID";
+            this.idAlumno.Name = "idAlumno";
+            this.idAlumno.ReadOnly = true;
+            this.idAlumno.Visible = false;
+            // 
+            // codigo
+            // 
+            this.codigo.DataPropertyName = "codigo";
+            this.codigo.HeaderText = "CODIGO";
+            this.codigo.Name = "codigo";
+            this.codigo.ReadOnly = true;
+            // 
+            // nombre
+            // 
+            this.nombre.DataPropertyName = "nombre";
+            this.nombre.HeaderText = "NOMBRE";
+            this.nombre.Name = "nombre";
+            this.nombre.ReadOnly = true;
+            // 
+            // Año
+            // 
+            this.Año.DataPropertyName = "Año";
+            this.Año.HeaderText = "AÑO";
+            this.Año.Name = "Año";
+            this.Año.ReadOnly = true;
+            // 
+            // Precio
+            // 
+            this.Precio.DataPropertyName = "Precio";
+            this.Precio.HeaderText = "PRECIO";
+            this.Precio.Name = "Precio";
+            this.Precio.ReadOnly = true;
+            // 
+            // Descripcion
+            // 
+            this.Descripcion.HeaderText = "DESCRIPCION";
+            this.Descripcion.Name = "Descripcion";
+            this.Descripcion.ReadOnly = true;
             // 
             // grbNavegacionPeliculas
             // 
@@ -290,48 +332,6 @@
             this.btnVolver.UseVisualStyleBackColor = true;
             this.btnVolver.Click += new System.EventHandler(this.btnVolver_Click);
             // 
-            // idAlumno
-            // 
-            this.idAlumno.DataPropertyName = "idAlumno";
-            this.idAlumno.HeaderText = "ID";
-            this.idAlumno.Name = "idAlumno";
-            this.idAlumno.ReadOnly = true;
-            this.idAlumno.Visible = false;
-            // 
-            // codigo
-            // 
-            this.codigo.DataPropertyName = "codigo";
-            this.codigo.HeaderText = "CODIGO";
-            this.codigo.Name = "codigo";
-            this.codigo.ReadOnly = true;
-            // 
-            // nombre
-            // 
-            this.nombre.DataPropertyName = "nombre";
-            this.nombre.HeaderText = "NOMBRE";
-            this.nombre.Name = "nombre";
-            this.nombre.ReadOnly = true;
-            // 
-            // Año
-            // 
-            this.Año.DataPropertyName = "Año";
-            this.Año.HeaderText = "AÑO";
-            this.Año.Name = "Año";
-            this.Año.ReadOnly = true;
-            // 
-            // Precio
-            // 
-            this.Precio.DataPropertyName = "Precio";
-            this.Precio.HeaderText = "PRECIO";
-            this.Precio.Name = "Precio";
-            this.Precio.ReadOnly = true;
-            // 
-            // Descripcion
-            // 
-            this.Descripcion.HeaderText = "DESCRIPCION";
-            this.Descripcion.Name = "Descripcion";
-            this.Descripcion.ReadOnly = true;
-            // 
             // ExplorarPeliculas
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -346,6 +346,7 @@
             this.Controls.Add(this.grbDatosPeliculas);
             this.Name = "ExplorarPeliculas";
             this.Text = "ExplorarPeliculas";
+            this.Load += new System.EventHandler(this.ExplorarPeliculas_Load);
             ((System.ComponentModel.ISupportInitialize)(this.grdDatosPelicula)).EndInit();
             this.grbNavegacionPeliculas.ResumeLayout(false);
             this.grbNavegacionPeliculas.PerformLayout();

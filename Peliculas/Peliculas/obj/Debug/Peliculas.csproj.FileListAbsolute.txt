@@ -9,3 +9,4 @@ C:\Users\MINEDUCYT\Downloads\repo Ana\Peliculas\Peliculas\obj\Debug\Peliculas.cs
 C:\Users\MINEDUCYT\Downloads\repo Ana\Peliculas\Peliculas\obj\Debug\Peliculas.csproj.CoreCompileInputs.cache
 C:\Users\MINEDUCYT\Downloads\repo Ana\Peliculas\Peliculas\obj\Debug\Peliculas.exe
 C:\Users\MINEDUCYT\Downloads\repo Ana\Peliculas\Peliculas\obj\Debug\Peliculas.pdb
+C:\Users\MINEDUCYT\Downloads\repo Ana\Peliculas\Peliculas\obj\Debug\Peliculas.Compra.resources
