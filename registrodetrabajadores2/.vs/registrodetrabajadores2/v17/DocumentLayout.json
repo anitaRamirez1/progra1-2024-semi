@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MINEDUCYT\\Downloads\\registrodetrabajadores2 (2)\\registrodetrabajadores2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_MINEDUCYT_DOWNLOADS_REGISTRODETRABAJADORES2__2__REGISTRODETRABAJADORES2_REGISTRODETRABAJADORES2_EMPRESAS1.MDF/True/SqlTable/dbo.Usuario.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE31D33-9A5E-45EE-99B1-2D790F828E29}|registrodetrabajadores2\\registrodetrabajadores2.csproj|c:\\users\\mineducyt\\downloads\\registrodetrabajadores2 (2)\\registrodetrabajadores2\\registrodetrabajadores2\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDE31D33-9A5E-45EE-99B1-2D790F828E29}|registrodetrabajadores2\\registrodetrabajadores2.csproj|solutionrelative:registrodetrabajadores2\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE31D33-9A5E-45EE-99B1-2D790F828E29}|registrodetrabajadores2\\registrodetrabajadores2.csproj|c:\\users\\mineducyt\\downloads\\registrodetrabajadores2 (2)\\registrodetrabajadores2\\registrodetrabajadores2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDE31D33-9A5E-45EE-99B1-2D790F828E29}|registrodetrabajadores2\\registrodetrabajadores2.csproj|solutionrelative:registrodetrabajadores2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE31D33-9A5E-45EE-99B1-2D790F828E29}|registrodetrabajadores2\\registrodetrabajadores2.csproj|c:\\users\\mineducyt\\downloads\\registrodetrabajadores2 (2)\\registrodetrabajadores2\\registrodetrabajadores2\\frm_ususario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDE31D33-9A5E-45EE-99B1-2D790F828E29}|registrodetrabajadores2\\registrodetrabajadores2.csproj|solutionrelative:registrodetrabajadores2\\frm_ususario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Usuario [Datos]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_MINEDUCYT_DOWNLOADS_REGISTRODETRABAJADORES2__2__REGISTRODETRABAJADORES2_REGISTRODETRABAJADORES2_EMPRESAS1.MDF/True/SqlTable/dbo.Usuario.sql",
+              "ToolTip": "dbo.Usuario [Datos]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-30T15:15:41.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Downloads\\registrodetrabajadores2 (2)\\registrodetrabajadores2\\registrodetrabajadores2\\Form2.cs",
+              "RelativeDocumentMoniker": "registrodetrabajadores2\\Form2.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Downloads\\registrodetrabajadores2 (2)\\registrodetrabajadores2\\registrodetrabajadores2\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "registrodetrabajadores2\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:10:45.821Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Downloads\\registrodetrabajadores2 (2)\\registrodetrabajadores2\\registrodetrabajadores2\\Conexion.cs",
+              "RelativeDocumentMoniker": "registrodetrabajadores2\\Conexion.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Downloads\\registrodetrabajadores2 (2)\\registrodetrabajadores2\\registrodetrabajadores2\\Conexion.cs",
+              "RelativeToolTip": "registrodetrabajadores2\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T14:58:56.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Frm_ususario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Downloads\\registrodetrabajadores2 (2)\\registrodetrabajadores2\\registrodetrabajadores2\\Frm_ususario.cs",
+              "RelativeDocumentMoniker": "registrodetrabajadores2\\Frm_ususario.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Downloads\\registrodetrabajadores2 (2)\\registrodetrabajadores2\\registrodetrabajadores2\\Frm_ususario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "registrodetrabajadores2\\Frm_ususario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:51:46.766Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
