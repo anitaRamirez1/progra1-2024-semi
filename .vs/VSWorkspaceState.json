@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\sistema__academico",
+    "\\sistema__academico\\sistema_academico",
+    "\\sistema__academico\\sistema_academico\\Controllers"
   ],
+  "SelectedNode": "\\sistema__academico\\sistema_academico\\Controllers\\WeatherForecastController.cs",
   "PreviewInSolutionExplorer": false
 }

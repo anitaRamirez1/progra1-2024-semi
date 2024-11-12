@@ -1,8 +1,28 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\MINEDUCYT\\OneDrive\\Documents\\github\\sistema_academico\\sistema_academico\\wwwroot\\views\\Alumno.html",
+      "Id": "C:\\Users\\MINEDUCYT\\Downloads\\repo Ana\\sistema_academico\\sistema_academico\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\MINEDUCYT\\Downloads\\repo Ana\\sistema_academico\\sistema_academico\\wwwroot\\views\\Alumno.html",
       "PackagePath": "staticwebassets\\views\\Alumno.html"
+    },
+    {
+      "Id": "C:\\Users\\MINEDUCYT\\Downloads\\repo Ana\\sistema_academico\\sistema_academico\\wwwroot\\views\\Docente.html",
+      "PackagePath": "staticwebassets\\views\\Docente.html"
+    },
+    {
+      "Id": "C:\\Users\\MINEDUCYT\\Downloads\\repo Ana\\sistema_academico\\sistema_academico\\wwwroot\\views\\busqueda_alumno.html",
+      "PackagePath": "staticwebassets\\views\\busqueda_alumno.html"
+    },
+    {
+      "Id": "C:\\Users\\MINEDUCYT\\Downloads\\repo Ana\\sistema_academico\\sistema_academico\\wwwroot\\views\\busqueda_docente.html",
+      "PackagePath": "staticwebassets\\views\\busqueda_docente.html"
+    },
+    {
+      "Id": "C:\\Users\\MINEDUCYT\\Downloads\\repo Ana\\sistema_academico\\sistema_academico\\wwwroot\\views\\index.html",
+      "PackagePath": "staticwebassets\\views\\index.html"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.sistema_academico.props",
